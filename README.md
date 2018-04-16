@@ -1,1 +1,1 @@
-Lecture plan for JS Stream
+Lecture plan for JS Stream is [here](plan.md)
