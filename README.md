@@ -1,1 +1,1 @@
-db-js-stream
+Lecture plan for JS Stream
