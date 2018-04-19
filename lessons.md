@@ -13,4 +13,4 @@ Lesson plan:
 - Selectors
 - Simple examples (changing colors, font, etc.)
 - Practice with CSS
-- Few words about static and non-static pages, maybe small example to show the difference - cliffhanger before the next lesson and intro JavaScript
+- Few words about static and non-static pages, maybe small example to show the difference - cliffhanger before the next lesson and intro to JavaScript
