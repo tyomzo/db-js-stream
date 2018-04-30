@@ -18,20 +18,20 @@ Lesson plan:
 # 2nd lesson - Values, Types and Operators (by Martynas)
 
 Lesson plan:
-- Short recap about previous lesson and how it ties in with todays lesson (a.k.a. the big overview)
-- Values
-- Numbers
+1. Short recap about previous lesson and how it ties in with todays lesson (a.k.a. the big overview)
+1. Values
+1. Numbers
 	* Arithmetic
 	* Special numbers (Infinity, -Infinity, NaN)
-- Strings
-- Unary operators
-- Boolean values
+1. Strings
+1. Unary operators
+1. Boolean values
 	* Comparison
 	* Logical operators
-- Empty values
-- Automatic type conversion
-- Summary
-- Some homework ?
+1. Empty values
+1. Automatic type conversion
+1. Summary
+1. Some homework ?
 
 # 3rd lesson - Program Structure
 
