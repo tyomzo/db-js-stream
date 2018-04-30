@@ -1,4 +1,4 @@
-# 1st lesson - HTML and CSS
+# 1st lesson - HTML and CSS (by Rita)
 
 Lesson plan:
 - Intro to course, course plan, introducing lectors
@@ -15,56 +15,60 @@ Lesson plan:
 - Practice with CSS
 - Few words about static and non-static pages, maybe small example to show the difference - cliffhanger before the next lesson and intro to JavaScript
 
-# 2nd lesson - Javascript and its basics
+# 2nd lesson - Values, Types and Operators (by Martynas)
 
 Lesson plan:
-- What Javascript is and what it's not?
-	* Quick recap of previous lesson
-	* What does it do and where it's used?
-- Values, Types, and Operators
-	* Values
-	* Numbers
+- Short recap about previous lesson and how it ties in with todays lesson (a.k.a. the big overview)
+- Values
+- Numbers
 	* Arithmetic
 	* Special numbers (Infinity, -Infinity, NaN)
-	* Strings
-	* Boolean
+- Strings
+- Unary operators
+- Boolean values
+	* Comparison
 	* Logical operators
-	* Empty values
-	* Type conversion (maybe - javascript can get strange fast :) )
-- Program Structure
-	* Expressions and statements
-	* Bindings (let ten = 10) and their naming
-	* Functions (prompt(""), console.log())
-	* Return values
-	* Control flow
-	* Conditional execution (if, else if, else)
-	* While and Do loops
-	* for loops
-	* Breaking Out of a Loop
-	* Updating bindings succinctly (counter += 1)
-	* switch
-	Very quickly:
-	* capitalization
-	* comments
-	* Indenting Code
+- Empty values
+- Automatic type conversion
+- Summary
+- Some homework ?
 
-
-# 3rd lesson - Functions and Data Structures
+# 3rd lesson - Program Structure
 
 Lesson plan:
-- Quick recap of previous lesson
-- Functions
-	* Defining a function
-	* Bindings and scopes
-	* Nested scope
-	* Functions as values
-	* Declaration notation
-	* Arrow functions (maybe)
-	* Closure
-- Data Structures: Objects and Arrays
-	* Data sets
-	* Properties
-	* Methods
-	* Objects
-	* Mutability
-	* Strings and their properties
+- Expressions and statements
+- Bindings (let ten = 10) and their naming
+- Functions (prompt(""), console.log())
+- Return values
+- Control flow
+- Conditional execution (if, else if, else)
+- While and Do loops
+- for loops
+- Breaking Out of a Loop
+- Updating bindings succinctly (counter += 1)
+- switch
+Very quickly:
+- capitalization
+- comments
+- Indenting Code
+
+# 4th lesson - Functions
+
+Lesson plan:
+- Defining a function
+- Bindings and scopes
+- Nested scope
+- Functions as values
+- Declaration notation
+- Arrow functions (maybe)
+- Closure
+
+# 5rd lesson - Data Structures: Objects and Arrays
+
+Lesson plan:
+- Data sets
+- Properties
+- Methods
+- Objects
+- Mutability
+- Strings and their properties
